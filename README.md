@@ -1,4 +1,4 @@
-# NVIDIA-GTC-demo
+# Graphistry Standalone Notebook Demo
 
 Write your first graph neural network, complete with automatic feature engineering, visualization, and deployment, in this lab using popular open source libraries: PyGraphistry[AI], NVIDIA RAPIDS (cuDF, cuGraph, cuML), and GPU neural network ecosystems (DGL, PyG, TF).
 
